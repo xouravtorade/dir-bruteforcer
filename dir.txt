@@ -1,0 +1,10 @@
+admin
+login
+dashboard
+backup
+config
+test
+upload
+images
+css
+js
